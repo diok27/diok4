@@ -1,15 +1,16 @@
-### Backend
+## Backend
 
 ![C#](https://img.shields.io/badge/C%23-512BD4?logo=csharp&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?logo=dotnet&logoColor=white)
 ![Entity Framework Core](https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?logo=dotnet&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?logo=fastify&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-FF6C37?logo=postman&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/WebSocket-010101?logo=socketdotio&logoColor=white)
 
-### Frontend
+## Frontend
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
@@ -23,4 +24,8 @@
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?logo=axios&logoColor=white)
 ![Zod](https://img.shields.io/badge/Zod-3E67B1?logo=zod&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white)
+
+## Tools
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
