@@ -1,4 +1,9 @@
-## 🛠️ **Techs**
+![C#](https://img.shields.io/badge/-C%23-512BD4?logo=csharp&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/-ASP.NET_Core-512BD4?logo=dotnet&logoColor=white)
+![Entity Framework Core](https://img.shields.io/badge/-Entity_Framework_Core-512BD4?logo=dotnet&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
@@ -15,7 +20,3 @@
 ![Axios](https://img.shields.io/badge/-Axios-5A29E4?logo=axios&logoColor=white)
 ![Zod](https://img.shields.io/badge/-Zod-3E67B1?logo=zod&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/-WebSocket-010101?logo=socket.io&logoColor=white)
-
-### Codewars
-[![Codewars](https://www.codewars.com/users/diok4/badges/large)](https://www.codewars.com/users/diok4)
-
